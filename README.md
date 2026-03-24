@@ -21,7 +21,7 @@ Desenvolver um site institucional para apresentar a empresa, seus serviços, fro
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,m"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,"/>
   </a>
 </p>
 
@@ -29,4 +29,4 @@ Desenvolver um site institucional para apresentar a empresa, seus serviços, fro
 🚧 `Em desenvolvimento`
 
 ## 📞 Sobre a empresa
-A Weva Transportes atua no transporte de pessoas com foco em segurança, conforto e pontualidade.
+A Weva Transportes atua no transporte de pessoas com foco em segurança, conforto e pontualidade. 
