@@ -3,10 +3,10 @@
 Projeto acadêmico desenvolvido para a disciplina de Front-End, com o objetivo de criar um site institucional para a empresa Weva Transportes.
 
 ## 👥 Integrantes
-- [Ítalo Souza]()
-- [Kauan]()
-- [Cíntia]()
-- [João]()
+- [Ítalo Souza](https://github.com/bhzitalo)
+- [Kauan](https://github.com/3kauan)
+- [Cíntia](https://github.com/cintia2305)
+- [João](https://github.com/jota-araujo)
 
 ## 🎯 Objetivo
 Desenvolver um site institucional para apresentar a empresa, seus serviços, frota e facilitar o contato com clientes.
