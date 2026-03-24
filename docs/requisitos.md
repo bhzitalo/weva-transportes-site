@@ -6,8 +6,6 @@ Este documento descreve os requisitos funcionais e não funcionais do sistema a 
 
 O objetivo é definir claramente o comportamento esperado do sistema e suas restrições.
 
----
-
 ## 2. Requisitos Funcionais
 
 Os requisitos funcionais descrevem as funcionalidades que o sistema deve oferecer.
@@ -36,7 +34,6 @@ O sistema deve permitir que o usuário solicite um orçamento de transporte.
 ### RF08 – Divulgação de Viagens
 O sistema deve exibir viagens disponíveis ou serviços em destaque.
 
----
 
 ## 3. Requisitos Não Funcionais
 
@@ -57,8 +54,6 @@ O sistema deve ser compatível com os principais navegadores (Google Chrome, Mic
 ### RNF05 – Segurança
 O sistema deve garantir a proteção básica dos dados enviados pelos usuários.
 
----
-
 ## 4. Requisitos de Interface
 
 ### Interface do Usuário
@@ -73,8 +68,6 @@ O sistema deve garantir a proteção básica dos dados enviados pelos usuários.
 - Página Sobre
 - Página de Contato
 
----
-
 ## 5. Requisitos de Dados
 
 O sistema deve manipular os seguintes dados:
@@ -84,8 +77,6 @@ O sistema deve manipular os seguintes dados:
 - Telefone
 - Mensagem
 - Tipo de serviço solicitado
-
----
 
 ## 6. Considerações Finais
 
